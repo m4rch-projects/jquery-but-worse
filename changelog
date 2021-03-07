@@ -1,28 +1,15 @@
-( v 2021-03-03 )
+( v 2021-03-07 )
 [ general ]
 [ content ]
-	- init
-		- accept query, DOM element, array of DOM elements, jQuery element
-	- addClass
-	- attr
-	- append
-	- children
-	- css
-	- data
-	- each
-	- eq
-	- filter
-	- find
-	- hasClass
-	- is
-	- first
-	- last
-	- on
-	- parent
-	- prop
-	- remove
-	- removeAttr
-	- removeClass
-	- toggleClass
+	- add
+	- empty
+	- toArray
+	- val
+	- slice
+	- html
 [ fixes ]
+	- class modifiers now change classes of every element
+	- fixed single dom-element selector in jQuery.fn.init
+	- fixed jQuery.fn.eq, jQuery.fn.first, jQuery.fn.last
 [ misc ]
+	- finished jQuery.fn.parent
