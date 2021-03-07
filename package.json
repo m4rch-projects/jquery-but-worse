@@ -1,0 +1,8 @@
+{
+	"name": "@m4rch/jquery-but-worse",
+	"version": "0.1.0",
+	"description": "jquery but homemade and worse",
+	"main": "jquery.js",
+	"author": "m4rch",
+	"license": "Unlicense"
+}

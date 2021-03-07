@@ -1,0 +1,28 @@
+( v 2021-03-03 )
+[ general ]
+[ content ]
+	- init
+		- accept query, DOM element, array of DOM elements, jQuery element
+	- addClass
+	- attr
+	- append
+	- children
+	- css
+	- data
+	- each
+	- eq
+	- filter
+	- find
+	- hasClass
+	- is
+	- first
+	- last
+	- on
+	- parent
+	- prop
+	- remove
+	- removeAttr
+	- removeClass
+	- toggleClass
+[ fixes ]
+[ misc ]
